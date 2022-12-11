@@ -1,0 +1,19 @@
+body{
+
+  width:80%;
+  margin:auto;
+  background: url(be.jpg);
+  font-family: sans-serif;
+
+
+}
+
+main{
+
+  background: black;
+  line-height: 1.5;
+  color: green;
+  padding: 5px 40px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
